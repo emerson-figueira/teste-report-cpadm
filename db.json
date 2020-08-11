@@ -1,4 +1,6 @@
 {
+  "result": [
+{
 	"Binario": "UEsDBBQAAAAIAH1cC1HrJfdsCQEAAL4BAAAPABwAeGwvd29ya2Jvb2sueG1sI",
 	"token" : "626f780d41014ead69694dab0633bd6c",
 	"Data": null,
@@ -13,4 +15,6 @@
 	"DhDelete": null,
 	"NomeDelete": null,
 	"InDeleted": false
+}
+  ]
 }
